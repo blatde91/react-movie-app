@@ -31,7 +31,7 @@
     "mongoose": "^5.0.2",
     "passport": "^0.4.0",
     "passport-jwt": "^3.0.1",
-    "react-router": "^4.2.0",
+    "react": "^16.0.0",
     "react-router-dom": "^4.2.2"
   }
 }
