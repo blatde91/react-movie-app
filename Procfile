@@ -1,1 +1,1 @@
-web: npm run installDeps && node server.js
+web: npm run installDeps && node /client/build/app.js
