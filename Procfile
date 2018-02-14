@@ -1,1 +1,1 @@
-web: npm run installDeps && npm start
+web: npm run installDeps && node app.js
